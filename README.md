@@ -1,6 +1,6 @@
 # ROCm + Pytorch Installation for gfx1102 LLVM AMD GPUs 
 
-This repository is a guide how to install PyTorch 2.9.0 + ROCm 6.4 in Ubuntu 24.04 for unsupported gfx1102 LLVM AMD GPUs:
+This is a guide on how to install PyTorch 2.9.0 + ROCm 6.4 in Ubuntu 24.04 for unsupported gfx1102 LLVM AMD GPUs:
 
 - AMD Radeon RX 7600
 - AMD Radeon RX 7600 XT

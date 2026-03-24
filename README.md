@@ -141,3 +141,4 @@ Please create an issue if there are problems in your installation.
  - https://github.com/ROCm/TheRock/blob/main/RELEASES.md#rocm-for-gfx110X-all
  - https://www.reddit.com/r/ROCm/comments/1qh4bx2/rx_7600_gfx1102_rocm_pytorch_any_way_to_make_it/
  - https://github.com/patientx/ComfyUI-Zluda/issues/170#issuecomment-2972793016
+ - https://github.com/sfinktah/amd-torch
